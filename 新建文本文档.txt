@@ -1,0 +1,2 @@
+python dcgan.py --mode generate --batch_size 128
+python dcgan.py --mode train --batch_size 128
